@@ -33,10 +33,10 @@ The goal is to strengthen problem-solving skills by focusing on patterns and tec
 
 📅 *Started on: 02 April 2026*
 
-* 303. Range Sum Query – Immutable
-* 724. Find Pivot Index
-* 1480. Running Sum of 1D Array
-* 1732. Find the Highest Altitude
+* 303\. Range Sum Query – Immutable
+* 724\. Find Pivot Index
+* 1480\. Running Sum of 1D Array
+* 1732\. Find the Highest Altitude
 
 ---
 
