@@ -1,20 +1,88 @@
-# LeetCode-Solutions-2026
-Collection of leetcode questions for personal reference and tracking. 
+# 📘 LeetCode Solutions 2026
 
+A curated collection of LeetCode problems solved in 2026 for **practice, revision, and progress tracking**.
 
-Topics Covered:
+---
 
-1. Two Pointer Approach:                                                                               01/04/2026
-    - 
+## 📌 About
 
+This repository contains categorized solutions to LeetCode problems.
+The goal is to strengthen problem-solving skills by focusing on patterns and techniques.
 
-2. Sliding Window Problem:                                                                             02/04/2026
+---
 
+## 🧠 Topics Covered
 
+### 1. Two Pointer Approach
 
-3. Prefix Sum:                                                                                         02/04/2026
-    - 303. Range Sum Query - Immutable
-    - 724. Find Pivot Index
-    - 1480. Running Sum of 1d Array
-    - 1732. Find the Highest Altitude
-    - 
+📅 *Started on: 01 April 2026*
+
+* *(Add problems here)*
+
+---
+
+### 2. Sliding Window
+
+📅 *Started on: 02 April 2026*
+
+* *(Add problems here)*
+
+---
+
+### 3. Prefix Sum
+
+📅 *Started on: 02 April 2026*
+
+* 303. Range Sum Query – Immutable
+* 724. Find Pivot Index
+* 1480. Running Sum of 1D Array
+* 1732. Find the Highest Altitude
+
+---
+
+## 🚀 Goals
+
+* Practice consistently
+* Master common problem-solving patterns
+* Improve coding efficiency and logic
+
+---
+
+## 📂 Structure
+
+Each problem is organized by topic and includes:
+
+* Problem statement (link or reference)
+* Approach explanation
+* Code implementation
+
+---
+
+## 🛠️ Languages Used
+
+* (Add your languages here, e.g., Python / Java / C++)
+
+---
+
+## ⭐ Progress Tracking
+
+✔️ Keep updating topics
+✔️ Add new problems regularly
+✔️ Revise frequently
+
+---
+
+## 🤝 Contributions
+
+This is a personal repository, but suggestions and improvements are always welcome!
+
+---
+
+## 📎 Notes
+
+* Focus on **understanding patterns**, not just solutions
+* Try solving problems before referring to code
+
+---
+
+### 🌟 Happy Coding!
