@@ -60,15 +60,7 @@ Each problem is organized by topic and includes:
 
 ## 🛠️ Languages Used
 
-* (Add your languages here, e.g., Python / Java / C++)
-
----
-
-## ⭐ Progress Tracking
-
-✔️ Keep updating topics
-✔️ Add new problems regularly
-✔️ Revise frequently
+* Java
 
 ---
 
@@ -78,11 +70,8 @@ This is a personal repository, but suggestions and improvements are always welco
 
 ---
 
-## 📎 Notes
+## 📎 Notes to self
 
-* Focus on **understanding patterns**, not just solutions
+* Focus on **understanding patterns**
 * Try solving problems before referring to code
 
----
-
-### 🌟 Happy Coding!
