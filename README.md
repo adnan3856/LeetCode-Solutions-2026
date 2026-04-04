@@ -17,7 +17,7 @@ The goal is to strengthen problem-solving skills by focusing on patterns and tec
 
 📅 *Started on: 01 April 2026*
 
-* *(Add problems here)*
+* 345\. Reverse Vowels of a String - 04/04
 
 ---
 
