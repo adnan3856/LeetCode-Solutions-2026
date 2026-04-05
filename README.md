@@ -40,6 +40,15 @@ The goal is to strengthen problem-solving skills by focusing on patterns and tec
 
 ---
 
+### 4. HashSet/HashMap Usage
+
+📅 *Started on: 05 April 2026*
+
+* 303\. Range Sum Query – Immutable
+* 705\. <a href = "https://leetcode.com/problems/design-hashset/description/">Design HashSet </a>
+
+---
+
 ## 🚀 Goals
 
 * Practice consistently
