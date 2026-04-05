@@ -46,6 +46,7 @@ The goal is to strengthen problem-solving skills by focusing on patterns and tec
 
 * 303\. Range Sum Query – Immutable
 * 705\. <a href = "https://leetcode.com/problems/design-hashset/description/">Design HashSet </a>
+* 706\. <a href = "https://leetcode.com/problems/design-hashmap/description/">Design HashMap </a>
 
 ---
 
