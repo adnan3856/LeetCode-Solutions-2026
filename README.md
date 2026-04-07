@@ -34,7 +34,7 @@ The goal is to strengthen problem-solving skills by focusing on patterns and tec
 📅 *Started on: 02 April 2026*
 
 * 303\. Range Sum Query – Immutable
-* 724\. < a href = "https://leetcode.com/problems/find-pivot-index/description/" > Find Pivot Index </a>
+* 724\. <a href = "https://leetcode.com/problems/find-pivot-index/description/" > Find Pivot Index </a>
 * 1480\. <a href = "https://leetcode.com/problems/running-sum-of-1d-array/description/" >Running Sum of 1D Array </a>
 * 1732\. Find the Highest Altitude
 
