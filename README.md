@@ -47,7 +47,7 @@ The goal is to strengthen problem-solving skills by focusing on patterns and tec
 * 303\. Range Sum Query – Immutable
 * 705\. <a href = "https://leetcode.com/problems/design-hashset/description/">Design HashSet </a>
 * 706\. <a href = "https://leetcode.com/problems/design-hashmap/description/">Design HashMap </a>
-* 347\. <a href = "https://leetcode.com/top-k-frequent-elements/description/">Top K Frequent Elements * </a>  07/04/26 - need to visit again, a solution was seen using PriorityQueue
+* 347\. <a href = "https://leetcode.com/top-k-frequent-elements/description/">Top K Frequent Elements</a>*  07/04/26 - need to visit again, a solution was seen using PriorityQueue
 
 ---
 ### 4. Frequency Counting
