@@ -49,6 +49,14 @@ The goal is to strengthen problem-solving skills by focusing on patterns and tec
 * 706\. <a href = "https://leetcode.com/problems/design-hashmap/description/">Design HashMap </a>
 
 ---
+### 4. Frequency Counting
+
+📅 *Started on: 07 April 2026*
+
+* 387\. <a href = "https://leetcode.com/problems/first-unique-character-in-a-string/description/"> First Unique Character in a String </a>
+* 242\. <a href = "https://leetcode.com/problems/design-hashmap/description/">Valid Anagrams </a>
+
+---
 
 ## 🚀 Goals
 
