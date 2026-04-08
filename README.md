@@ -59,6 +59,17 @@ The goal is to strengthen problem-solving skills by focusing on patterns and tec
 
 ---
 
+---
+### 4. Fast and Slow pointer / LinkedList
+
+📅 *Started on: 08 April 2026*
+
+* 141\. <a href = "https://leetcode.com/problems/linked-list-cycle/description/">Linked List Cycle </a>
+* 206\.  <a href = "https://leetcode.com/problems/reverse-linked-list/description/">Reverse Linked List</a>
+
+---
+ 
+
 ## 🚀 Goals
 
 * Practice consistently
