@@ -66,7 +66,7 @@ The goal is to strengthen problem-solving skills by focusing on patterns and tec
 
 * 141\. <a href = "https://leetcode.com/problems/linked-list-cycle/description/">Linked List Cycle </a>
 * 206\.  <a href = "https://leetcode.com/problems/reverse-linked-list/description/">Reverse Linked List</a>
-
+* 876\. <a href ="https://leetcode.com/problems/middle-of-the-linked-list/description/"> Middle of the Linked List</a>
 ---
  
 
