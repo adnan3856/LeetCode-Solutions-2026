@@ -60,7 +60,7 @@ The goal is to strengthen problem-solving skills by focusing on patterns and tec
 ---
 
 ---
-### 4. Fast and Slow pointer / LinkedList
+### 5. Fast and Slow pointer / LinkedList
 
 📅 *Started on: 08 April 2026*
 
@@ -68,7 +68,16 @@ The goal is to strengthen problem-solving skills by focusing on patterns and tec
 * 206\.  <a href = "https://leetcode.com/problems/reverse-linked-list/description/">Reverse Linked List</a>
 * 876\. <a href ="https://leetcode.com/problems/middle-of-the-linked-list/description/"> Middle of the Linked List</a>
 ---
- 
+
+ ---
+### 6. Trees
+
+📅 *Started on: 20 April 2026*
+
+* 102\. <a href = "https://leetcode.com/problems/Binary-Tree-Level-Order-Traversal/description/">. Binary Tree Level Order Traversal </a>
+* 104\.  <a href = "https://leetcode.com/problems/maximum-depth-of-binary-tree/description">Maximum Depth of Binary Tree</a>
+
+---
 
 ## 🚀 Goals
 
