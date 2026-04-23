@@ -7,7 +7,7 @@ class Solution {
             // This hashset stores numbers we've seen in the inner loop for the current 'i'
             Set<Integer> hashset = new HashSet<>();
             
-            for (int j = i + 1; j < nums.length; j++) {
+            for (int j = i + 1; j < nums.length; j++) { 
                 // We need: nums[i] + nums[j] + third = 0
                 // Therefore: third = -(nums[i] + nums[j])
                 int third = -(nums[i] + nums[j]);
