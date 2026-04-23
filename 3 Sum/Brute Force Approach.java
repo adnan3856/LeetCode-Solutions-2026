@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        // We use a Set of Lists to store our triplets. 
+        // We use a Set of Lists to store our triplets.  
         // A Set automatically ignores duplicate items, which helps us return unique triplets.
         Set<List<Integer>> set = new HashSet<>();
 
